@@ -1,0 +1,2 @@
+# nginx_vm
+nginx
