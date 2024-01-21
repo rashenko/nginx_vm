@@ -1,2 +1,1 @@
-# nginx_vm
-nginx
+Закинуть файл default по этому пути /etc/nginx/sites-available
